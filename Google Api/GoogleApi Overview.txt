@@ -1,0 +1,19 @@
+In this we have integrated the following google apis:
+1. Place Api
+2. Distance Matrix Api
+3. Geocoding Api
+
+First we have three location fields:
+1. Start Location Address
+2. Service Delivery Address
+3. End Location Address
+
+1. Now using place api on all the above mentioned location fields we get the dropdown of all the suggested addresses as we start typing something in these fields as 
+shown in the fig 1.1 (GoogleApi Screenshots.docx(fig1.1))
+
+2. After filling all the three fields it will calculate the total distance with the help of distance matrix api as shown in fig 1.2 (GoogleApi.docx(fig1.2))
+   E.g The distance between Airport Drive, Brisbane Airport QLD, Australia and Arndale Shopping Centre Access, Kilkenny SA, Australia is 2040 km
+       and the distance between Arndale Shopping Centre Access, Kilkenny SA, Australia and Ashton Avenue, Claremont WA, Australia is 2696 km
+       So on adding the above two, distance is 4736 km 
+
+3. With this we can see the markers on the map (Geocoding Api) as shown in fig 1.2 (GoogleApi Screenshots.docx(fig1.2)).
