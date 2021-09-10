@@ -1,5 +1,5 @@
 Overview:
-Marathon Health is a not-for-proft, registered charity delivering high quality health and wellbeing services to people in country NSW 
+Thsi project is a not-for-proft, registered charity delivering high quality health and wellbeing services to people in country NSW 
 and the ACT. It is one of the few health organisations based in country Australia with the core purpose to identify, deliver and sustain 
 services to people within these communities. It advocates for equal access to quality health services for people 
 wherever they choose to live. 
